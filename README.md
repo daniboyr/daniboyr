@@ -1,8 +1,8 @@
 ### Hello, world! 👋
 
-- 🎓 8º - Information System / IT;
-- 🎯 A future Tech Lead;
-- 🌎 From BR to the world!
+- Senior Year Graduation in Information System / IT; 
+- Future Tech Lead; 
+- From BR to the world! 🇧🇷🌎
 
 
 <div style="display: inline_block"><br>
