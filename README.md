@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 
 - 🎓 8º - Information System / IT;
-- 🌱 Future Tech Lead;
+- 🎯 Future Tech Lead;
 - 🌎 From BR to the world!
 
 
