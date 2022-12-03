@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-👨‍🎓 Graduation in Information System / IT; <p>
+👨‍🎓 Graduated in Information System; <p>
 🎯 Future Tech Lead; <p>
 🌎 From BR to the world! <p>
 
