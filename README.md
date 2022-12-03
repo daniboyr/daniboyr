@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-👨‍🎓 Senior Year Graduation in Information System / IT; <p>
+👨‍🎓 Graduation in Information System / IT; <p>
 🎯 Future Tech Lead; <p>
 🌎 From BR to the world! <p>
 
