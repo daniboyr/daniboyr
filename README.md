@@ -19,7 +19,6 @@
 <p>
 <div align="left"
   <a href="https://www.linkedin.com/in/danielsruas/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniboyr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <p>
 <div> 
