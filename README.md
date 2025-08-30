@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 
-👨‍🎓 Information System Bachelor; <p>
-🎯 Future Tech Lead; <p>
+👨‍🎓 MBA - Project Management and Agile Methods; <p>
+🎯 IT Specialist; <p>
 🌎 From BR to the world! <p>
 
 
